@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jamie Hitchcock
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on web development related projects
+- 📫 Message me on Linkedin https://www.linkedin.com/in/jamie-hitchcock-4641071b0/
