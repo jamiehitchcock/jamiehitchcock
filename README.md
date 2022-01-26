@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jamie Hitchcock
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web development related projects
-- 📫 Message me on Linkedin = https://www.linkedin.com/in/jamie-hitchcock-4641071b0/
+- Hi, I’m Jamie Hitchcock
+- I’m interested in web development
+- Web Development Bootcamp Student with Bath Spa University.
+- I’m currently learning Javascript and React.js
+- I’m looking for my first career in web development, using Javascript and React.
+- Message me on Linkedin = https://www.linkedin.com/in/jamie-hitchcock-4641071b0/
 - I use FreeCodeCamp for alot of my learning = https://www.freecodecamp.org/jamiehitchcock
