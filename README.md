@@ -3,5 +3,6 @@
 - Web Development Bootcamp Student with Bath Spa University.
 - I’m currently learning Javascript and React.js
 - I’m looking for my first career in web development, using Javascript and React.
+- Take a look at my portfolio = www.jamiehitchcock.co.uk
 - Message me on Linkedin = https://www.linkedin.com/in/jamie-hitchcock-4641071b0/
 - I use FreeCodeCamp for alot of my learning = https://www.freecodecamp.org/jamiehitchcock
