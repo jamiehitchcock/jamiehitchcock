@@ -1,8 +1,13 @@
-- Hi, I’m Jamie Hitchcock
-- I’m interested in web development
-- Web Development Bootcamp Student with Bath Spa University.
-- I’m currently learning Javascript and React.js
-- I’m looking for my first career in web development, using Javascript and React.
-- Take a look at my portfolio = www.jamiehitchcock.co.uk
-- Message me on Linkedin = https://www.linkedin.com/in/jamie-hitchcock-4641071b0/
-- I use FreeCodeCamp for alot of my learning = https://www.freecodecamp.org/jamiehitchcock
+## Hello, my name is Jamie Hitchcock 👋
+
+I'm a Front-End Developer at The Entertainer.<br>
+-I am currently focusing on Next,js, React and TypeScript.<br>
+-Check out my portfolio website at [jamiehitchcock.co.uk](https://jamiehitchcock.co.uk/).<br>
+-Feel free to reach out to me on [linkedin](https://www.linkedin.com/in/jamie-hitchcock-4641071b0/).
+
+Some of the technologies I enjoy using:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,html,css,js,git,tailwind,sass,figma" />
+  </a>
+</p>
